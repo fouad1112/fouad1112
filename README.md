@@ -59,11 +59,4 @@ Systèmes • Réseaux • Sécurité des infrastructures
 
 ---
 
-## 📊 Activité GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fouad1112&show_icons=true&theme=github_dark"/>
-</p>
-
----
-
 > 🔍 *La sécurité ne consiste pas seulement à bloquer, mais à comprendre, anticiper et corriger.*
