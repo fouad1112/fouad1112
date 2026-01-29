@@ -34,7 +34,6 @@ Systèmes • Réseaux • Sécurité des infrastructures
 <p>
   <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Réseaux-VLAN%20%7C%20DNS%20%7C%20DHCP-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Durcissement_Linux-Fail2ban%20%7C%20Permissions-16A34A?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Virtualisation-Docker%20%7C%20VirtualBox-2496ED?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
 </p>
